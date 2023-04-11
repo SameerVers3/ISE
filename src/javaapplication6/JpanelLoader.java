@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package pos.pro;
+package javaapplication6;
 
 import javax.swing.JPanel;
 
